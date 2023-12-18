@@ -22,8 +22,8 @@ title: Spencer Aeschliman
 email: aesch.spencer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Test description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "s-aeschliman.github.io" # the subpath of your site, e.g. /blog
+url: "http://s-aeschliman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Aeschliman1
 github_username:  s-aeschliman
 
