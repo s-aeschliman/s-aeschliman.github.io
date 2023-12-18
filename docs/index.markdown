@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+## Hello, world
+
+Is this text doubled
