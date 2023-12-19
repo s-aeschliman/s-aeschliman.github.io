@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://s-aeschliman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Aeschliman1
 github_username:  s-aeschliman
+googlescholar_username: citations?user=7gfWWf4AAAAJ&hl=en
 
 # Build settings
 theme: minima
@@ -34,6 +35,7 @@ plugins:
 markdown: kramdown
 kramdown: 
   math_engine: mathjax
+exerpt_seperator: <!--end_exerpt-->
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

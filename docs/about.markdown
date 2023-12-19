@@ -1,18 +1,10 @@
 ---
 layout: page
 title: About
+order: 2
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a PhD Candidate in Transportation Systems Analysis and Planning at Northwestern University. In the [*Mobility and Behavior Lab*](https://www.amandastathopoulos.com/), I study how people change their travel behavior and preferences, especially in response to policy interventions like transit safety measures. You can see more in the [Projects](/projects.md) tab.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+When I am not doing research, I like to play soccer, take photos, [listen to music](https://www.last.fm/user/aesch_spencer), and organize for better working conditions with my union, [*NUGW-UE*](https://nugradworkers.org/).

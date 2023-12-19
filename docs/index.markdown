@@ -4,8 +4,7 @@
 
 layout: home
 title: Home
+order: 1
 ---
 
 ## Hello, world
-
-Is this text doubled
