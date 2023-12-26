@@ -28,7 +28,10 @@
           <ul>
             {% for item in page.carousels[number].images %}
               <li class="carousel__slide" style="background-image: url('{{ item.image }}');">
-                <a style="display:block;width:100%;height:100%;" title="{{ item.alt }}" href="{{ item.url }}"></a>
+                <div class="top-left">
+                  <div class="image-text">{{ item.alt }}</div>
+                </div>
+                <a style="text-decoration:none;display:block;width:100%;height:100%;" href="{{ item.url }}"></a>  
               </li>
             {% endfor %}
           </ul>
@@ -164,6 +167,47 @@
   opacity: 0;
   overflow: hidden;
 }
+
+.carousel__track:hover .carousel__slide{
+  opacity: 0.75;
+}
+
+.carousel__track:hover .image-text{
+  opacity: 1;
+}
+
+.carousel__slide:hover .image-text{
+  opacity: 1;
+}
+
+.carousel__slide a{
+  opacity: 0;
+  display: none;
+}
+
+.top-left{
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  
+}
+
+.image-text{
+  background-color: #e14e4e;
+  color: #ffffff;
+  font-size: 18px;
+  font-style: italic;
+  opacity: 0;
+  padding: 8px 16px;
+}
+
+.carousel__slide a:hover{
+  position: relative;
+  opacity: 1;
+  bottom: 8px;
+  left: 16px;
+}
+
 .carousel__slide .overlay {height: 100%;}
 .carousel--thumb .carousel__indicator {
   height: 30px;
