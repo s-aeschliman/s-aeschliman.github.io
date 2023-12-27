@@ -35,7 +35,11 @@ plugins:
 markdown: kramdown
 kramdown: 
   math_engine: mathjax
-exerpt_seperator: <!--end_exerpt-->
+exerpt_seperator: <!--end_exerpt--
+
+flickr:
+  api_key: 91880c02c1e7f5e0e30a8caeb9557080
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
