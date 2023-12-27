@@ -21,7 +21,7 @@
 title: Spencer Aeschliman
 email: aesch.spencer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Test description.
+  There is a time for poems, and a time for fists.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://s-aeschliman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Aeschliman1
