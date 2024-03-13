@@ -112,14 +112,15 @@ a {
 
   &:hover {
     color: $brand-color;
-    text-decoration: underline;
+    font-weight: 600;
   }
 
   .social-media-list &:hover {
     text-decoration: none;
+    color: $text-color;
 
     .username {
-      text-decoration: underline;
+      text-decoration: none;
     }
   }
 }
@@ -209,13 +210,20 @@ pre {
  */
 
 .svg-icon {
-    width: 16px;
-    height: 16px;
+    width: 24px;
+    height: 24px;
     display: inline-block;
     fill: #{$text-color};
-    padding-right: 5px;
     vertical-align: text-top;
+    padding-right: 5px;
+    margin-bottom: 0px;
+
+    &:hover{
+      fill: #{lighten($text-color, 15%)};
+    }
 }
+
+
 
 .social-media-list {
   li + li {

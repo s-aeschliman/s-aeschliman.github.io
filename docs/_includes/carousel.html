@@ -84,18 +84,17 @@
 {% endfor %}
 
 .carousel__control {
-  height: 30px;
-  width: 30px;
-  margin-top: -15px;
-  top: 50%;
+  height: 10px;
+  width: 10px;
+  margin-top: 5px;
+  bottom: 12px;
   position: absolute;
   display: block;
   cursor: pointer;
-  border-width: 5px 5px 0 0;
+  border-width: 3px 3px 0 0;
   border-style: solid;
   border-color: #fafafa;
-  opacity: 0.35;
-  opacity: 1;
+  opacity: .35;
   outline: 0;
   z-index: 3;
 }
@@ -103,24 +102,29 @@
   opacity: 1;
 }
 .carousel__control--backward {
-  left: 20px;
+  left: 42%;
   -webkit-transform: rotate(-135deg);
           transform: rotate(-135deg);
 }
 .carousel__control--forward {
-  right: 20px;
+  right: 42%;
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
 }
 .carousel__indicators {
   position: absolute;
-  bottom: 20px;
+  bottom: 7px;
   width: 100%;
   text-align: center;
 }
+
+.carousel__indicators:hover .image-text{
+  opacity: 1;
+}
+
 .carousel__indicator {
-  height: 15px;
-  width: 15px;
+  height: 10px;
+  width: 10px;
   border-radius: 100%;
   display: inline-block;
   z-index: 2;
@@ -168,9 +172,6 @@
   overflow: hidden;
 }
 
-.carousel__track:hover .carousel__slide{
-  opacity: 0.75;
-}
 
 .carousel__track:hover .image-text{
   opacity: 1;
@@ -179,6 +180,16 @@
 .carousel__slide:hover .image-text{
   opacity: 1;
 }
+
+.carousel0:hover .carousel__control--forward{
+  opacity: 1;
+}
+
+.carousel0:hover .carousel__control--backward{
+  opacity: 1;
+}
+
+
 
 .carousel__slide a{
   opacity: 0;
@@ -195,10 +206,10 @@
 .image-text{
   background-color: #e14e4e;
   color: #ffffff;
-  font-size: 18px;
+  font-size: 14px;
   font-style: italic;
   opacity: 0;
-  padding: 8px 16px;
+  padding: 4px 8px;
 }
 
 .carousel__slide a:hover{
