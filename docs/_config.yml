@@ -21,7 +21,7 @@
 title: Spencer Aeschliman
 email: aesch.spencer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  There is a time for poems, and a time for fists.
+  There is a time for reciting poems and a time for fists.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://s-aeschliman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Aeschliman1
@@ -29,6 +29,7 @@ github_username:  s-aeschliman
 googlescholar_username: citations?user=7gfWWf4AAAAJ&hl=en
 flickr_username: 199776332@N03
 linkedin_username: spencer-aeschliman-a830aa117
+email_username: aesch.spencer@gmail.com
 
 # Build settings
 theme: minima

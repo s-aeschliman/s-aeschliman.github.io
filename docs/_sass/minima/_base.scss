@@ -93,7 +93,12 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
+
+h1 {
+  font-weight: 500;
+}
+ 
+h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
@@ -103,16 +108,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: darken($brand-color, 15%);
+  color: darken($brand-color, 20%);
   text-decoration: none;
-
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
 
   &:hover {
     color: $brand-color;
-    font-weight: 600;
+    text-decoration: underline;
   }
 
   .social-media-list &:hover {
@@ -228,6 +229,7 @@ pre {
 .social-media-list {
   li + li {
     padding-top: 5px;
+    padding-bottom: 0px;
   }
 }
 

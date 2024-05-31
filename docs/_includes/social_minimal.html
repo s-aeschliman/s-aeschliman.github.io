@@ -4,5 +4,6 @@
     {%- if site.linkedin_username -%}<a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username"></span></a>{%- endif -%}
     {%- if site.twitter_username -%}<a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username"></span></a>{%- endif -%}
     {%- if site.googlescholar_username -%}<a href="https://scholar.google.com/{{ site.googlescholar_username| escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#scholar' | relative_url }}"></use></svg><span class="username"></span></a>{%- endif -%}
+    {%- if site.email -%}<a href="mailto:{{ site.email }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#email' | relative_url }}"></use></svg><span class="username"></span></a>{%- endif -%}
   <!--</ul>-->
   
