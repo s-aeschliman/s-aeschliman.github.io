@@ -32,6 +32,7 @@ electrified ride-sourcing charging demand analyses”, *Transportation Letters*.
 and socioeconomic factors”, *Transportation Research Record*.
 
 **Conference Papers and Presentations**
+* Aeschliman, S. & Stathopoulos, A. "Counter-productive safety interventions? Satisfaction and safety trade-offs in post-pandemic transit ridership." *IATBR 2024*, Vienna. 
 * Aeschliman, S. & Stathopoulos, A. “The Return to Transit in a Changing Landscape: Telework and Safety
 Concerns.” *TRB 2024*.
 * Said, M., Aeschliman, S., & Stathopoulos, A. “Robots at Your Doorstep? Acceptance of Near-Future Modes for
