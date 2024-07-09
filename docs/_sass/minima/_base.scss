@@ -113,12 +113,12 @@ a {
 
   &:hover {
     color: $brand-color;
-    text-decoration: underline;
+    //text-decoration: underline;
   }
 
   .social-media-list &:hover {
     text-decoration: none;
-    color: $text-color;
+    color: $brand-color;
 
     .username {
       text-decoration: none;
@@ -220,7 +220,7 @@ pre {
     margin-bottom: 0px;
 
     &:hover{
-      fill: #{lighten($text-color, 15%)};
+      fill: #{$brand-color};
     }
 }
 
@@ -228,7 +228,7 @@ pre {
 
 .social-media-list {
   li + li {
-    padding-top: 5px;
+    padding-top: 2px;
     padding-bottom: 0px;
   }
 }

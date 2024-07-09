@@ -22,7 +22,7 @@ carousels:
 
 <div class="above_img_banner">
 
-  <div class="pic"><img src="assets/images/me.png" alt="" width="334" height="184"></div>
+  <div class="pic"><img src="assets/images/loze_profile.png" alt="" width="435" height="150"></div>
 
   <div class="intro" style="text-align: right">You've somehow arrived at the website of Spencer Aeschliman (me). I study travel behavior and the impacts of transit policy. Here you'll find details about my ongoing projects, publications, photography, the odd blog post, and other random things that interest me, if that interests you. Welcome! <br> <br> {%- include social_minimal.html -%}</div>
 </div>
@@ -44,7 +44,7 @@ carousels:
   width: 500px;
   display: inline-block;
   float: right;
-  font-size: 14px;
+  font-size: 12px;
   vertical-align: bottom;
   position: absolute;
   bottom: 0;
