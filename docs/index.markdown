@@ -44,7 +44,7 @@ carousels:
   width: 500px;
   display: inline-block;
   float: right;
-  font-size: 12px;
+  font-size: 14px;
   vertical-align: bottom;
   position: absolute;
   bottom: 0;
