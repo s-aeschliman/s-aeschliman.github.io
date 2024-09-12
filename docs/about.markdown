@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: About
 order: 2
 permalink: /about/
 ---
@@ -18,9 +18,9 @@ When I am not doing research, I like to play soccer, take photos, ride my bike, 
 
 <div class="row">
 <div class="col-md-1" markdown="1">
-### books I like
+### Books I Like
 
-#### *recently enjoyed*
+#### *Recently Enjoyed*
 
 - [Roque Larraquay, *Comemadre*](https://pilsencommunitybooks.com/item/dKS8YeszLFsyTw3PlhHynQ) (tr. Heather Cleary)
 - [Cormac McCarthy, *The Crossing*](https://pilsencommunitybooks.com/item/b1VOIlIvk3PZmXY6sNCWog)
@@ -28,7 +28,7 @@ When I am not doing research, I like to play soccer, take photos, ride my bike, 
 - [Lászlo Krasznahorkai, *Satantango*](https://pilsencommunitybooks.com/item/hvTabYmi135thLyL2u7bjg) (tr. George Szirtes)
 - [Thomas Pynchon, *Inherent Vice*](https://pilsencommunitybooks.com/item/rBSsMLeAZlZkg48eLD5-JQ)
 
-#### *all-time favorites*
+#### *All-Time Favorites*
 
 - [Roberto Bolaño, *2666*](https://pilsencommunitybooks.com/item/kFvBjdPm05G-V3CbwkR9PQ) and [*The Savage Detectives*](https://pilsencommunitybooks.com/item/kFvBjdPm05FmSpJfwOJ6Dg) (tr. Natasha Wimmer)
 - [Ted Chiang, *Exhalation*](https://pilsencommunitybooks.com/item/WLhu9GQ-hlMei8FhVRno9w)
@@ -41,9 +41,9 @@ When I am not doing research, I like to play soccer, take photos, ride my bike, 
 <hr class="vline" width="1" size="400" style="0 auto" />
 
 <div class="col-md-2" markdown="1">
-### music I spin
+### Music I Spin
 
-#### *current rotation*
+#### *Current Rotation*
 
 - [Geotic, *The Anchorite*](https://basementsbasement.bandcamp.com/album/the-anchorite)
 - [Little Kid, *A Million Easy Payments*](https://littlekid.bandcamp.com/album/a-million-easy-payments)
@@ -51,7 +51,7 @@ When I am not doing research, I like to play soccer, take photos, ride my bike, 
 - [Sofia Kourtesis, *Madres*](https://sofiakourtesis.bandcamp.com/album/madres)
 - [Stars of the Lid, *And Their Refinement of the Decline*](https://starsofthelid.bandcamp.com/album/and-their-refinement-of-the-decline)
 
-#### *desert island discs*
+#### *Desert Island Discs*
 
 - [Big Thief, *UFOF*](https://bigthief.bandcamp.com/album/u-f-o-f)
 - [Blood Orange, *Cupid Deluxe*](https://bloodorangenyc.bandcamp.com/album/cupid-deluxe)

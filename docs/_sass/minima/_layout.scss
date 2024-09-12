@@ -9,10 +9,12 @@
   // Positioning context for the mobile navigation icon
   position: relative;
   color: #ffffff;
+  // font-family: MedievalSharp, serif;
 }
 
 .site-title {
   @include relative-font-size(1.625);
+  //font-family: MedievalSharp, serif;
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
