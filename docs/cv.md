@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Vitae
-permalink: /cv/
 ---
 
 *Download PDF version [here](files/my_cv.pdf).*
@@ -21,9 +20,6 @@ B.A., Physics, minor in Mathematics
 
 ### Publications and Presentations
 **Journal Articles**<br>
-* Huang, E., Aeschliman, S., Hofstra, A., & Stathopoulos, A. (2024), “Examining Riders’ Subjective Equity
-Standards for Transit Service: How will they shape future transit planning and operations?” Under review in
-*Transport Policy*.
 * Said, M., Aeschliman, S., & Stathopoulos, A. (2023), “Robots at your doorstep: acceptance of near-future
 technologies for automated parcel delivery”, *Scientifc Reports*.
 * Alam, Md.R., Hou, C., Aeschliman, S., Zhou, Y., & Guo, Z. (2022), “Optimization-based trip chain emulation for
@@ -32,11 +28,12 @@ electrified ride-sourcing charging demand analyses”, *Transportation Letters*.
 and socioeconomic factors”, *Transportation Research Record*.
 
 **Conference Papers and Presentations**
+* Aeschliman, S. & Stathopoulos, A. "Tracking Public Transit Satisfaction with Longitudinal Mulitilevel Models." *TRB 2025*, Washington, DC.
 * Aeschliman, S. & Stathopoulos, A. "Counter-productive safety interventions? Satisfaction and safety trade-offs in post-pandemic transit ridership." *IATBR 2024*, Vienna. 
 * Aeschliman, S. & Stathopoulos, A. “The Return to Transit in a Changing Landscape: Telework and Safety
-Concerns.” *TRB 2024*.
+Concerns.” *TRB 2024*, Washington, DC.
 * Said, M., Aeschliman, S., & Stathopoulos, A. “Robots at Your Doorstep? Acceptance of Near-Future Modes for
-Parcel Delivery.” *TRB 2023*.
+Parcel Delivery.” *TRB 2023*, Washington, DC.
 * Aeschliman, S., Zhou, Y., Macal. C., & Zhou, Z., “Agent-based modeling of electric vehicles with time-of-use
 electricity rates”, *EVS 33*, Portland, OR, June 14-17, 2020.
 * Hou, C., Guo, Z., Aeschliman, S., Zhou, Y., Afifah, F., & Huang, J., “Energy impact analyses of electrified
