@@ -12,7 +12,7 @@ PhD Candidate, Transportation Systems Analysis and Planning (Sep. 21 - Present)<
 NSF Graduate Research Fellow (Sep. 23 - Present)
 
 **Goshen College (Goshen, IN)**<br>
-B.A., Physics, minor in Mathematics 
+B.A., Physics, minor in Mathematics (2019)
 
 ### Major Awards and Achievements
 * National Science Foundation Graduate Research Fellowship recipient (Sep. 2023 - Present)
