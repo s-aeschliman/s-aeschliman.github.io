@@ -2,13 +2,13 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $text-color;
+  border-top: 5px solid $background-color;
   border-bottom: 1px solid $text-color;
   min-height: $spacing-unit * 1.5; /*1.865 */
-  background-color: $text-color;
+  background-color: $background-color;
   // Positioning context for the mobile navigation icon
   position: relative;
-  color: #ffffff;
+  color: #fffece;
   // font-family: MedievalSharp, serif;
 }
 
@@ -20,11 +20,11 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  color: $background-color;
+  color: $text-color;
 
   &,
   &:visited {
-    color: $background-color;
+    color: $text-color;
   }
 
   &:hover {
@@ -45,7 +45,7 @@
   }
 
   .page-link {
-    color: $background-color;
+    color: $text-color;
     line-height: $base-line-height;
     &:hover{
       color: $brand-color
