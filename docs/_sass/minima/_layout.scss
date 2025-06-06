@@ -119,6 +119,18 @@
 .site-footer {
   border-top: 1px solid $background-color;
   padding: $spacing-unit 0;
+
+  .wrapper {
+    max-width: $content-width;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+    @include media-query($on-palm) {
+      padding-left: $spacing-unit / 2;
+      padding-right: $spacing-unit / 2;
+    }
+  }
 }
 
 .footer-heading {
@@ -228,7 +240,7 @@
 }
 
 .post-title {
-  @include relative-font-size(2.625);
+  @include relative-font-size(1.5);
   letter-spacing: -1px;
   line-height: 1;
 
