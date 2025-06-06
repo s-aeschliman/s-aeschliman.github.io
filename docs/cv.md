@@ -5,6 +5,9 @@ title: Vitae
 
 *Download PDF version [here](files/my_cv.pdf).*
 
+### PhD Candidate in the *Mobility and Behavior Lab* at Northwestern University
+
+
 ### Education
 
 **Northwestern University (Evanston, IL)**<br>
