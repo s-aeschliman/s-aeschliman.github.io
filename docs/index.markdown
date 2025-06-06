@@ -20,7 +20,7 @@ carousels:
 
 ---
 
-<div class="intro">You've somehow arrived at the website of Spencer Aeschliman (me). I study travel behavior and the impacts of transit policy. Here you'll find details about my ongoing projects, publications, photography, the odd blog post, and other random things that interest me, if that interests you.<br> <br> </div>
+<div class="intro">You've somehow arrived at the website of Spencer Aeschliman (me). I study travel behavior and the impacts of transit policy. Here you'll find details about my ongoing projects, publications, photography, the odd blog post, and other random things that interest me, if that interests you.</div>
 
 <div class="above_img_banner">
 
@@ -42,14 +42,7 @@ carousels:
 }
 
 .intro {
-  width: 500px;
   display: inline-block;
-  float: right;
-  font-size: 17px;
-  vertical-align: bottom;
-  position: absolute;
-  bottom: 0;
-  right: 0;
 }
 
 </style>
