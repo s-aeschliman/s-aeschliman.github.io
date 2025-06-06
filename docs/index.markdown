@@ -20,11 +20,12 @@ carousels:
 
 ---
 
+<div class="intro">You've somehow arrived at the website of Spencer Aeschliman (me). I study travel behavior and the impacts of transit policy. Here you'll find details about my ongoing projects, publications, photography, the odd blog post, and other random things that interest me, if that interests you.<br> <br> </div>
+
 <div class="above_img_banner">
 
   <div class="pic"><a href="https://escapecollective.com/preview-tour-de-france-2023-stage-17/"><img src="assets/images/loze_profile.png" alt="" width="435" height="150"></a></div>
 
-  <div class="intro" style="text-align: right">You've somehow arrived at the website of Spencer Aeschliman (me). I study travel behavior and the impacts of transit policy. Here you'll find details about my ongoing projects, publications, photography, the odd blog post, and other random things that interest me, if that interests you.<br> <br> </div>
 </div>
 {%- include social_minimal.html -%}
 {% include carousel.html height="50" unit="%" duration="1000" number="1" %}
