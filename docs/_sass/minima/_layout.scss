@@ -12,7 +12,7 @@
  * Site header
  */
 .site-header {
-  border-top: 50px solid $background-color;
+  border-top: 75px solid $background-color;
   border-bottom: 25px solid $background-color;
   min-height: $spacing-unit * 1.5; /*1.865 */
   background-color: $background-color;
@@ -24,7 +24,7 @@
 }
 
 .site-title {
-  @include relative-font-size(1.3);
+  @include relative-font-size(1.5);
   //font-family: MedievalSharp, serif;
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
