@@ -26,6 +26,7 @@ $table-text-align: left !default;
 $content-width:    600px !default; // custom
 $on-palm:          600px !default;
 $on-laptop:        600px !default;
+$left-offset:      150px !default; // off-center content
 
 // Use media queries like this:
 // @include media-query($on-palm) {

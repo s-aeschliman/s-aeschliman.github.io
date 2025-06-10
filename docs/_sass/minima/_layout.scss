@@ -10,6 +10,11 @@
   position: relative;
   color: #fffece;
   // font-family: MedievalSharp, serif;
+  .wrapper {
+    max-width: $content-width;
+    margin-left: $left-offset;
+    margin-right: auto;
+  }
 }
 
 .site-title {
@@ -122,8 +127,8 @@
 
   .wrapper {
     max-width: $content-width;
-    margin: 0 auto;
-    padding-left: 15px;
+    margin-left: $left-offset;
+    padding-left: 0px;
     padding-right: 15px;
     
     @include media-query($on-palm) {
@@ -199,6 +204,7 @@
  * Page content
  */
 .page-content {
+  margin-left: $left-offset;
   padding: 15px;
   flex: 1;
 }
@@ -251,6 +257,7 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  margin-left: $left-offset;
 
   h2 {
     @include relative-font-size(2);
