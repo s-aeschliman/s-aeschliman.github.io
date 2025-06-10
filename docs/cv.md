@@ -23,14 +23,18 @@ B.A., Physics, minor in Mathematics (2019)
 
 ### Publications and Presentations
 **Journal Articles**<br>
-* Said, M., Aeschliman, S., & Stathopoulos, A. (2023), “Robots at your doorstep: acceptance of near-future
+* Aeschliman, S. & Stathopoulos, A. (2025). "Trade-offs in transit public safety policy: Balancing enforcement and quality improvements. Forthcoming in *Transportation Research Part A: Policy and Practice*.
+* Aeschliman, S., Huang, E., Hofstra, A., & Stathopoulos, A. (2025). "Examining riders' subjective equity standards for transit service: How will they shape future transit planning and operations?" Forthcoming in *Transport Policy*.
+* Said, M., Aeschliman, S., & Stathopoulos, A. (2023). “Robots at your doorstep: acceptance of near-future
 technologies for automated parcel delivery”, *Scientifc Reports*.
-* Alam, Md.R., Hou, C., Aeschliman, S., Zhou, Y., & Guo, Z. (2022), “Optimization-based trip chain emulation for
+* Alam, Md.R., Hou, C., Aeschliman, S., Zhou, Y., & Guo, Z. (2022). “Optimization-based trip chain emulation for
 electrified ride-sourcing charging demand analyses”, *Transportation Letters*.
-* Zhou, Y., Aeschliman, S., & Gohlke, D. (2021), “Affordability and household transportation fuel costs by region
+* Zhou, Y., Aeschliman, S., & Gohlke, D. (2021). “Affordability and household transportation fuel costs by region
 and socioeconomic factors”, *Transportation Research Record*.
 
 **Conference Papers and Presentations**
+* Aeschliman, S. & Stathopoulos, A. "Fully-Bayesian Imputation for Transit Panel Survey Data." *Modeling Mobility 2025*, Minneapolis, MN.
+* Aeschliman, S. & Stathopoulos, A. "Improving transit panel survey inferences: imputation, selection models, and survival analysis." *ITEA 2025*, Evanston, IL.
 * Aeschliman, S. & Stathopoulos, A. "Tracking Public Transit Satisfaction with Longitudinal Mulitilevel Models." *TRB 2025*, Washington, DC.
 * Aeschliman, S. & Stathopoulos, A. "Counter-productive safety interventions? Satisfaction and safety trade-offs in post-pandemic transit ridership." *IATBR 2024*, Vienna. 
 * Aeschliman, S. & Stathopoulos, A. “The Return to Transit in a Changing Landscape: Telework and Safety
