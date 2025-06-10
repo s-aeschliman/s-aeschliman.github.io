@@ -135,7 +135,6 @@
   .wrapper {
     max-width: $content-width;
     margin-left: $left-offset;
-    padding-left: 15px;
     padding-right: 0px;
     
     @include media-query($on-palm) {

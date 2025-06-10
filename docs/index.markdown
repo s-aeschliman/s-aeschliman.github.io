@@ -30,8 +30,58 @@ carousels:
 {%- include social_minimal.html -%}
 {% include carousel.html height="50" unit="%" duration="1000" number="1" %}
 
+<!-- 
+<div class="recent-posts">
+  <h2>Recent Posts</h2>
+  {% for post in site.posts limit:5 %}
+    <article class="post-preview">
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+      <div class="post-excerpt">
+        {{ post.excerpt }}
+      </div>
+      <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+    </article>
+  {% endfor %}
+</div>
+-->
 
 <style>
+
+/* .post-preview {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.post-preview h3 {
+  margin-bottom: 0.5rem;
+}
+
+.post-preview h3 a {
+  text-decoration: none;
+  color: #333;
+}
+
+.post-preview h3 a:hover {
+  color: #0066cc;
+}
+
+.post-meta {
+  color: #666;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.post-excerpt {
+  margin-bottom: 0.5rem;
+}
+
+.read-more {
+  color: #0066cc;
+  text-decoration: none;
+  font-weight: bold; 
+} */
 
 .above_img_banner{
   position: relative;

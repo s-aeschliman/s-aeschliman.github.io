@@ -4,7 +4,7 @@ title: About
 order: 2
 ---
 
-I am a PhD Candidate in Transportation Systems Analysis and Planning at Northwestern University. In the [*Mobility and Behavior Lab*](https://www.amandastathopoulos.com/), I study how people change their travel behavior and preferences, especially in response to policy interventions like transit safety measures. You can see more in the [Projects](/projects.html) tab. As of Fall 2023, I am also an NSF Graduate Research Fellow. I received my B.A. in Physics from Goshen College (Goshen, IN) in 2019. 
+I am a PhD Candidate in Transportation Systems Analysis and Planning at Northwestern University. In the [*Mobility and Behavior Lab*](https://www.amandastathopoulos.com/), I study how people change their travel behavior and preferences, especially in response to policy interventions like transit safety measures. You can see more in the [Projects](/projects.html) tab. I'm also really interested in using Bayesian methods in transportation research and demand modeling in general, since so many important infrastructure decisions are currently made without adequate consideration of uncertainty. As of Fall 2023, I am an NSF Graduate Research Fellow. I received my B.A. in Physics from Goshen College (Goshen, IN) in 2019. 
 
 When I am not doing research, I like to play soccer, take photos, ride my bike, [listen to music](https://www.last.fm/user/aesch_spencer), read, and organize for better working conditions with my union, [*NUGW-UE*](https://nugradworkers.org/). You can find a random assortment of webpages, blog posts, articles, textbooks, and other miscellanea that I have enjoyed over the years on my [Pinboard](https://pinboard.in/u:spencerja). 
 
@@ -15,8 +15,7 @@ When I am not doing research, I like to play soccer, take photos, ride my bike, 
 
 <br>
 
-<div class="row">
-<div class="col-md-1" markdown="1">
+
 ### Books I Like
 
 #### *Recently Enjoyed*
@@ -35,11 +34,7 @@ When I am not doing research, I like to play soccer, take photos, ride my bike, 
 - [Gene Wolfe, *The Book of the New Sun*](https://pilsencommunitybooks.com/item/mvAe9UD8MdpI8qa1JKckgA)
 - [Cormac McCarthy, *The Crossing*](https://pilsencommunitybooks.com/item/b1VOIlIvk3PZmXY6sNCWog)
 - [Jorge Luis Borges, *El Aleph*](https://pilsencommunitybooks.com/item/jLhJvsRtYNSyXV77bRuAuA)
-</div>
 
-<hr class="vline" width="1" size="400" style="0 auto" />
-
-<div class="col-md-2" markdown="1">
 ### Music I Spin
 
 #### *Current Rotation*
@@ -59,33 +54,3 @@ When I am not doing research, I like to play soccer, take photos, ride my bike, 
 - [Smog, *A River Ain't Too Much To Love*](https://smog.bandcamp.com/album/a-river-aint-too-much-to-love)
 - [Talk Talk, *Laughing Stock*](https://www.discogs.com/master/26553-Talk-Talk-Laughing-Stock)
   
-
-</div>
-
-</div>
-
-<style>
-.col-md-1 {
-  float: left;
-  width: 48%;
-  display: inline-block;
-}
-
-hr.vline{
-  display: inline-block
-}
-
-.col-md-2{
-  vertical-align: top;
-  width: 48%;
-  display: inline-block;
-  float: right;
-}
-
-/* Clear floats after the columns 
-.row:after {
-  content: "";
-  display: inline-block;
-  clear: both;
-} */
-</style>
