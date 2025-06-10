@@ -132,7 +132,7 @@
     max-width: $content-width;
     margin-left: $left-offset;
     padding-left: 15px;
-    padding-right: 15px;
+    padding-right: 0px;
     
     @include media-query($on-palm) {
       margin-left: 0 !important;
@@ -208,7 +208,7 @@
  * Page content
  */
 .page-content {
-  padding: 15px;
+  padding: 0px;
   flex: 1;
 }
 
