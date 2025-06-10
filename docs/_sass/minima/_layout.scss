@@ -3,6 +3,9 @@
   max-width: $content-width;
   margin-left: $left-offset;
   margin-right: auto;
+  @include media-query($on-palm) {
+      margin-left: 0 !important;
+  }
 }
 
 /**
