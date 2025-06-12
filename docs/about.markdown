@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+seo_title: About Spencer Aeschliman
 order: 2
 ---
 

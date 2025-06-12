@@ -2,6 +2,7 @@
 
 layout: home
 title: 
+seo_title: Spencer Aeschliman's home page
 order: 1
 carousels:
   - images:

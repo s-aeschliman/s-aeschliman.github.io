@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+seo_title: Spencer Aeschliman's Projects
 order: 3
 ---
 
