@@ -23,7 +23,7 @@ email: aesch.spencer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   There is a time for reciting poems and a time for fists.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://s-aeschliman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://s-aeschliman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Aeschliman1
 github_username:  s-aeschliman
 googlescholar_username: citations?user=7gfWWf4AAAAJ&hl=en
@@ -36,6 +36,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 markdown: kramdown
 kramdown: 
   math_engine: mathjax
