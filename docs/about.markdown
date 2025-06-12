@@ -4,7 +4,7 @@ title: About
 order: 2
 ---
 
-I am a PhD Candidate in Transportation Systems Analysis and Planning at Northwestern University. In the [*Mobility and Behavior Lab*](https://www.amandastathopoulos.com/), I study how people change their travel behavior and preferences, especially in response to policy interventions like transit safety measures. You can see more in the [Projects](/projects.html) tab. I'm also really interested in using Bayesian methods in transportation research and demand modeling in general, since so many important infrastructure decisions are currently made without adequate consideration of uncertainty. As of Fall 2023, I am an NSF Graduate Research Fellow. I received my B.A. in Physics from Goshen College (Goshen, IN) in 2019. 
+I am a PhD Candidate in Transportation Systems Analysis and Planning at Northwestern University. In the [*Mobility and Behavior Lab*](https://www.amandastathopoulos.com/), I study how people change their travel behavior and preferences, especially in response to policy interventions like transit safety measures. You can see more in the [Projects](/projects.html) tab. I'm also interested in using Bayesian methods in transportation research and demand modeling in general. As of Fall 2023, I am an NSF Graduate Research Fellow. I received my B.A. in Physics from Goshen College (Goshen, IN) in 2019. 
 
 When I am not doing research, I like to play soccer, take photos, ride my bike, [listen to music](https://www.last.fm/user/aesch_spencer), read, and organize for better working conditions with my union, [*NUGW-UE*](https://nugradworkers.org/). You can find a random assortment of webpages, blog posts, articles, textbooks, and other miscellanea that I have enjoyed over the years on my [Pinboard](https://pinboard.in/u:spencerja). 
 
@@ -16,41 +16,22 @@ When I am not doing research, I like to play soccer, take photos, ride my bike, 
 <br>
 
 
-### Books I Like
+#### *Books, Music, and Movies I've Recently Enjoyed*
 
-#### *Recently Enjoyed*
-
+- [Thomas Pynchon, *Vineland*](https://pilsencommunitybooks.com/item/BuTAPAkYq0GxMQfmCCofdA)
+- [Benjamin Labatut, *When We Cease to Understand the World*](https://pilsencommunitybooks.com/item/1SqnOF0xZ8uZpDenXv-IIw)
 - [Roque Larraquay, *Comemadre*](https://pilsencommunitybooks.com/item/dKS8YeszLFsyTw3PlhHynQ) (tr. Heather Cleary)
 - [Machado de Assis, *The Posthumous Memoirs of Brás Cubas*](https://pilsencommunitybooks.com/item/rBSsMLeAZla6Y3iIwnZbaw)
-- [John Williams, *Augustus*](https://pilsencommunitybooks.com/item/nnc5iGAS4JfN6By8-k8m7w) and [*Stoner*](https://pilsencommunitybooks.com/item/nnc5iGAS4JflTdP2GD5dvg)
 - [Lászlo Krasznahorkai, *Satantango*](https://pilsencommunitybooks.com/item/hvTabYmi135thLyL2u7bjg) (tr. George Szirtes)
-- [Thomas Pynchon, *Inherent Vice*](https://pilsencommunitybooks.com/item/rBSsMLeAZlZkg48eLD5-JQ)
 
-#### *All-Time Favorites*
+- [caroline - *caroline 2*](https://caroline.bandcamp.com/album/caroline-2)
+- [Chuquimamani-Condori - *DJ E*](https://chuquimamani-condori.bandcamp.com/album/dj-e)
+- [Ryan Davis & the Roadhouse Band - *Dancing on the Edge*](https://sophomorelounge.bandcamp.com/album/ryan-davis-the-roadhouse-band-dancing-on-the-edge)
+- [Oklou - *choke enough*](https://oklou.bandcamp.com/album/choke-enough)
+- [Jim O'Rourke - *Bad Timing*](https://jimorourke.bandcamp.com/album/bad-timing)
 
-- [Roberto Bolaño, *2666*](https://pilsencommunitybooks.com/item/kFvBjdPm05G-V3CbwkR9PQ) and [*The Savage Detectives*](https://pilsencommunitybooks.com/item/kFvBjdPm05FmSpJfwOJ6Dg) (tr. Natasha Wimmer)
-- [Ted Chiang, *Exhalation*](https://pilsencommunitybooks.com/item/WLhu9GQ-hlMei8FhVRno9w)
-- [Donna Tartt, *The Little Friend*](https://pilsencommunitybooks.com/item/HmJy8yFFTGLJq3eLC2Kl2Q)
-- [Gene Wolfe, *The Book of the New Sun*](https://pilsencommunitybooks.com/item/mvAe9UD8MdpI8qa1JKckgA)
-- [Cormac McCarthy, *The Crossing*](https://pilsencommunitybooks.com/item/b1VOIlIvk3PZmXY6sNCWog)
-- [Jorge Luis Borges, *El Aleph*](https://pilsencommunitybooks.com/item/jLhJvsRtYNSyXV77bRuAuA)
-
-### Music I Spin
-
-#### *Current Rotation*
-
-- [Geotic, *The Anchorite*](https://basementsbasement.bandcamp.com/album/the-anchorite)
-- [Little Kid, *A Million Easy Payments*](https://littlekid.bandcamp.com/album/a-million-easy-payments)
-- [MJ Lenderman, *Boat Songs*](https://mjlenderman.bandcamp.com/album/boat-songs)
-- [Sofia Kourtesis, *Madres*](https://sofiakourtesis.bandcamp.com/album/madres)
-- [Stars of the Lid, *And Their Refinement of the Decline*](https://starsofthelid.bandcamp.com/album/and-their-refinement-of-the-decline)
-
-#### *Desert Island Discs*
-
-- [Big Thief, *UFOF*](https://bigthief.bandcamp.com/album/u-f-o-f)
-- [Blood Orange, *Cupid Deluxe*](https://bloodorangenyc.bandcamp.com/album/cupid-deluxe)
-- [Grouper, *Paradise Valley* 7"](https://grouper.bandcamp.com/album/paradise-valley)
-- [Nicolas Jaar, *Sirens*](https://nicolasjaar.bandcamp.com/album/sirens)
-- [Smog, *A River Ain't Too Much To Love*](https://smog.bandcamp.com/album/a-river-aint-too-much-to-love)
-- [Talk Talk, *Laughing Stock*](https://www.discogs.com/master/26553-Talk-Talk-Laughing-Stock)
-  
+- [*A Brighter Summer's Day*](https://letterboxd.com/film/a-brighter-summer-day/), Edward Yang
+- [*Sorcerer*](https://letterboxd.com/film/sorcerer/), William Friedkin
+- [*Evil Does not Exist*](https://letterboxd.com/film/evil-does-not-exist/), Ryusuke Hamaguchi
+- [*Miller's Crossing*](https://letterboxd.com/film/millers-crossing/), Joel & Ethan Coen
+- [*The Tree of Life*](https://letterboxd.com/film/the-tree-of-life-2011/), Terrence Malick

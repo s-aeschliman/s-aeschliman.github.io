@@ -123,7 +123,53 @@
   }
 }
 
+/**
+ * Global sidebar styles
+ */
+.content-container {
+  position: relative;
+  margin-bottom: 3rem;
+}
 
+.content-main {
+  width: 100%;
+  margin-right: 0;
+}
+
+.sidebar {
+  position: absolute;
+  left: calc(100% + 2rem);
+  top: 25%;
+  width: 150px;
+  padding: 1rem;
+}
+
+.sidebar a {
+  color: $brand-color;
+  text-decoration: none;
+  font-size: 1rem;
+  font-style: italic;
+}
+
+.sidebar a:hover {
+  text-decoration: underline;
+}
+
+@include media-query($on-palm) {
+  .sidebar {
+    position: static;
+    left: auto;
+    top: auto;
+    width: auto;
+    margin-top: 1rem;
+  }
+}
+
+.project-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 3rem;
+}
 
 /**
  * Site footer
