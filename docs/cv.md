@@ -3,7 +3,7 @@ layout: page
 title: Vitae
 ---
 
-*Download PDF version [here](files/my_cv.pdf).*
+*Download PDF version [here](files/my_cv.pdf) (updated June 2025).*
 
 ### PhD Candidate in the *Mobility and Behavior Lab* at Northwestern University
 
@@ -23,7 +23,6 @@ B.A., Physics, minor in Mathematics (2019)
 
 ### Publications and Presentations
 **Journal Articles**<br>
-* Aeschliman, S. & Stathopoulos, A. (2025). "Trade-offs in transit public safety policy: Balancing enforcement and quality improvements." Forthcoming in *Transportation Research Part A: Policy and Practice*.
 * Aeschliman, S., Huang, E., Hofstra, A., & Stathopoulos, A. (2025). "Examining riders' subjective equity standards for transit service: How will they shape future transit planning and operations?" *Transport Policy*.
 * Said, M., Aeschliman, S., & Stathopoulos, A. (2023). “Robots at your doorstep: acceptance of near-future
 technologies for automated parcel delivery.” *Scientific Reports*.

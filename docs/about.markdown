@@ -7,7 +7,7 @@ order: 2
 
 I am a PhD Candidate in Transportation Systems Analysis and Planning at Northwestern University. In the [*Mobility and Behavior Lab*](https://www.amandastathopoulos.com/), I study how people change their travel behavior and preferences, especially in response to policy interventions like transit safety measures. You can see more in the [Projects](/projects.html) tab. I'm also interested in using Bayesian methods in transportation research and demand modeling in general. As of Fall 2023, I am an NSF Graduate Research Fellow. I received my B.A. in Physics from Goshen College (Goshen, IN) in 2019. 
 
-When I am not doing research, I like to play soccer, take photos, ride my bike, [listen to music](https://www.last.fm/user/aesch_spencer), read, and organize for better working conditions with my union, [*NUGW-UE*](https://nugradworkers.org/). You can find a random assortment of webpages, blog posts, articles, textbooks, and other miscellanea that I have enjoyed over the years on my [Pinboard](https://pinboard.in/u:spencerja). 
+When I am not doing research, I like to play soccer, take photos, ride my bike, [listen to music](https://www.last.fm/user/aesch_spencer), read, and organize for better working conditions with my union, [*NUGW-UE*](https://nugradworkers.org/).
 
 
 ![cal_pic](assets/images/cal.jpg)
