@@ -1,5 +1,5 @@
 ---
-layout: blog
 title: Writing
 ---
 
+Placeholder page - for now?
