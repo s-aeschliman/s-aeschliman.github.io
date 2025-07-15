@@ -40,7 +40,7 @@ plugins:
 markdown: kramdown
 kramdown: 
   math_engine: mathjax
-exerpt_seperator: <!--end_exerpt--
+exerpt_seperator: <!--more-->
 
 flickr:
   api_key: 91880c02c1e7f5e0e30a8caeb9557080
