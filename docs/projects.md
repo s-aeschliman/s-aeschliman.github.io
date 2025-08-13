@@ -12,7 +12,7 @@ order: 3
 
 In the context of transit behavior, systematic missing data in key outcome variables can significantly bias survey findings, particularly when analyzing changes over time. 
 This study investigates patterns of attrition in a transit panel survey using two complementary Bayesian modeling approaches: a hierarchical choice model and a survival model. The choice model captures participants’ repeated, active decisions to respond to each survey wave, while the survival model emphasizes the temporal dynamics of continued participation and dropout. 
-By distinguishing between decision-based and time-based mechanisms of attrition, our approach offers a more robust understanding of survey engagement and highlights the importance of accounting for complex missingness patterns in longitudinal transit research.wledge of transit safety issues obtained from media and hearsay primarily affects riders' support for safety interventions rather than their overall satisfaction.
+By distinguishing between decision-based and time-based mechanisms of attrition, our approach offers a more robust understanding of survey engagement and highlights the importance of accounting for complex missingness patterns in longitudinal transit research.
 
 ![sat-pic](assets/images/survival_combined_plot_covariates.png){: .project-image}
 
