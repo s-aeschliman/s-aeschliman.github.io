@@ -23,36 +23,36 @@ B.A., Physics, minor in Mathematics (2019)
 
 ### Publications and Presentations
 **Journal Articles**<br>
-* Aeschliman, S. & Stathopoulos, A. (2025). "Trade-off is transit public safety interventions: balancing enforcement and quality improvements." Forthcoming in *Transportation Research Part A: Policy and Practice*.
-* Aeschliman, S., Huang, E., Hofstra, A., & Stathopoulos, A. (2025). "Examining riders' subjective equity standards for transit service: How will they shape future transit planning and operations?" *Transport Policy*.
-* Said, M., Aeschliman, S., & Stathopoulos, A. (2023). “Robots at your doorstep: acceptance of near-future
+* **Aeschliman, S.** & Stathopoulos, A. (2025). "Trade-off is transit public safety interventions: balancing enforcement and quality improvements." *Transportation Research Part A: Policy and Practice*.
+* **Aeschliman, S.**, Huang, E., Hofstra, A., & Stathopoulos, A. (2025). "Examining riders' subjective equity standards for transit service: How will they shape future transit planning and operations?" *Transport Policy*.
+* Said, M., **Aeschliman, S.**, & Stathopoulos, A. (2023). “Robots at your doorstep: acceptance of near-future
 technologies for automated parcel delivery.” *Scientific Reports*.
-* Alam, Md.R., Hou, C., Aeschliman, S., Zhou, Y., & Guo, Z. (2022). “Optimization-based trip chain emulation for
+* Alam, Md.R., Hou, C., **Aeschliman, S.**, Zhou, Y., & Guo, Z. (2022). “Optimization-based trip chain emulation for
 electrified ride-sourcing charging demand analyses.” *Transportation Letters*.
-* Zhou, Y., Aeschliman, S., & Gohlke, D. (2021). “Affordability and household transportation fuel costs by region
+* Zhou, Y., **Aeschliman, S.**, & Gohlke, D. (2021). “Affordability and household transportation fuel costs by region
 and socioeconomic factors.” *Transportation Research Record*.
 
 **Conference Papers and Presentations**
-* Aeschliman, S. & Stathopoulos, A. "Fully-Bayesian Imputation for Transit Panel Survey Data." *Modeling Mobility 2025*, Minneapolis, MN.
-* Aeschliman, S. & Stathopoulos, A. "Improving transit panel survey inferences: imputation, selection models, and survival analysis." *ITEA 2025*, Evanston, IL.
-* Aeschliman, S. & Stathopoulos, A. "Tracking Public Transit Satisfaction with Longitudinal Mulitilevel Models." *TRB 2025*, Washington, DC.
-* Aeschliman, S. & Stathopoulos, A. "Counter-productive safety interventions? Satisfaction and safety trade-offs in post-pandemic transit ridership." *IATBR 2024*, Vienna. 
-* Aeschliman, S. & Stathopoulos, A. “The Return to Transit in a Changing Landscape: Telework and Safety
+* **Aeschliman, S.** & Stathopoulos, A. "Fully-Bayesian Imputation for Transit Panel Survey Data." *Modeling Mobility 2025*, Minneapolis, MN.
+* **Aeschliman, S.** & Stathopoulos, A. "Improving transit panel survey inferences: imputation, selection models, and survival analysis." *ITEA 2025*, Evanston, IL.
+* **Aeschliman, S.** & Stathopoulos, A. "Tracking Public Transit Satisfaction with Longitudinal Mulitilevel Models." *TRB 2025*, Washington, DC.
+* **Aeschliman, S.** & Stathopoulos, A. "Counter-productive safety interventions? Satisfaction and safety trade-offs in post-pandemic transit ridership." *IATBR 2024*, Vienna. 
+* **Aeschliman, S.** & Stathopoulos, A. “The Return to Transit in a Changing Landscape: Telework and Safety
 Concerns.” *TRB 2024*, Washington, DC.
-* Said, M., Aeschliman, S., & Stathopoulos, A. “Robots at Your Doorstep? Acceptance of Near-Future Modes for
+* Said, M., **Aeschliman, S.**, & Stathopoulos, A. “Robots at Your Doorstep? Acceptance of Near-Future Modes for
 Parcel Delivery.” *TRB 2023*, Washington, DC.
-* Aeschliman, S., Zhou, Y., Macal. C., & Zhou, Z., “Agent-based modeling of electric vehicles with time-of-use
+* **Aeschliman, S.**, Zhou, Y., Macal. C., & Zhou, Z., “Agent-based modeling of electric vehicles with time-of-use
 electricity rates”, *EVS 33*, Portland, OR, June 14-17, 2020.
-* Hou, C., Guo, Z., Aeschliman, S., Zhou, Y., Afifah, F., & Huang, J., “Energy impact analyses of electrified
+* Hou, C., Guo, Z., **Aeschliman, S.**, Zhou, Y., Afifah, F., & Huang, J., “Energy impact analyses of electrified
 ride-sourcing services without trip chain data”, *TRB 2021*.
 
 **Technical Reports**
-* Zhou, Y., Siddique, N., Mintz, M., Aeschliman, S., & Macal, C. (2022). “Electric Vehicle and Infrastructure
+* Zhou, Y., Siddique, N., Mintz, M., **Aeschliman, S.**, & Macal, C. (2022). “Electric Vehicle and Infrastructure
 Systems Modeling in Washington D.C. and Baltimore” (ANL-22/28). Argonne National Lab. (ANL), Argonne, IL
 (United States); Exelon, Chicago, IL (United States).
-* Zhou, Y., Mintz, M., Stephens, T., Aeschliman, S., & Macal, C., “Electric Vehicle Adoption in Illinois”, Energy
+* Zhou, Y., Mintz, M., Stephens, T., **Aeschliman, S.**, & Macal, C., “Electric Vehicle Adoption in Illinois”, Energy
 Systems Division, Argonne National Laboratory, June 2020.
-* Zhou, Y., Aeschliman, S., & Gohlke, D., “Affordability and Household Transportation Fuel Costs by Region and
+* Zhou, Y., **Aeschliman, S.**, & Gohlke, D., “Affordability and Household Transportation Fuel Costs by Region and
 Socioeconomic Factors”, Energy Systems Division, Argonne National Laboratory, December 2020.
 
 **Other Presentations**
