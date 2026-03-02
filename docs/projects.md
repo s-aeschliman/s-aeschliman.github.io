@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 seo_title: Spencer Aeschliman's Projects
-last_modified_at: 2026_03_02
+last_modified_at: 2026-03-02
 order: 3
 ---
 

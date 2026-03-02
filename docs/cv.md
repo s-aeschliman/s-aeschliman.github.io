@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vitae
-last_modified_at: 2026-03-2
+last_modified_at: 2026-03-02
 ---
 
 *Download PDF version [here](files/my_cv.pdf) (updated July 2025).*
