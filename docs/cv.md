@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Vitae
+last_modified_at: 2026-03-2
 ---
 
 *Download PDF version [here](files/my_cv.pdf) (updated July 2025).*
@@ -33,6 +34,7 @@ electrified ride-sourcing charging demand analyses.” *Transportation Letters*.
 and socioeconomic factors.” *Transportation Research Record*.
 
 **Conference Papers and Presentations**
+* **Aeschliman, S.**, Pougala, J., & Stathopoulos, A. "Choice-survival models for trasit panel survey participation." *TRB 2026*, Washington, DC.
 * **Aeschliman, S.** & Stathopoulos, A. "Fully-Bayesian Imputation for Transit Panel Survey Data." *Modeling Mobility 2025*, Minneapolis, MN.
 * **Aeschliman, S.** & Stathopoulos, A. "Improving transit panel survey inferences: imputation, selection models, and survival analysis." *ITEA 2025*, Evanston, IL.
 * **Aeschliman, S.** & Stathopoulos, A. "Tracking Public Transit Satisfaction with Longitudinal Mulitilevel Models." *TRB 2025*, Washington, DC.

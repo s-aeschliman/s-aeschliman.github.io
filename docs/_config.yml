@@ -25,6 +25,14 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://s-aeschliman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 og_image: /assets/images/loze_profile.png
+author: 
+  name: Spencer Aeschliman
+  twitter: Aeschliman1
+
+twitter:
+  username: Aeschliman
+  card: summary
+  
 twitter_username: Aeschliman1
 github_username:  s-aeschliman
 googlescholar_username: citations?user=7gfWWf4AAAAJ&hl=en
@@ -41,10 +49,20 @@ plugins:
 markdown: kramdown
 kramdown: 
   math_engine: mathjax
-exerpt_seperator: <!--more-->
+excerpt_seperator: <!--more-->
 
 flickr:
   api_key: 91880c02c1e7f5e0e30a8caeb9557080
+
+defaults:
+  - scope:
+      path: "assets/**"
+    values:
+      sitemap: false
+  - scope:
+      path: "files/**"
+    values: 
+      sitemap: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.

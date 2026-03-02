@@ -3,6 +3,7 @@
 layout: home
 title: 
 seo_title: Spencer Aeschliman's home page
+last_modified_at: 2026_03_02
 order: 1
 carousels:
   - images:

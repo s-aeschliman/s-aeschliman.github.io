@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 seo_title: Spencer Aeschliman's Projects
+last_modified_at: 2026_03_02
 order: 3
 ---
 
@@ -18,7 +19,7 @@ By distinguishing between decision-based and time-based mechanisms of attrition,
 
   </div>
   <div class="sidebar">
-    I presented a version of this project (and the one below) at <a href="https://transportation.northwestern.edu/news-events/itea2025/itea2025.html">ITEA 2025</a> (Evanston, IL) and will present more at <a href="https://whova.com/web/b0kitYLTonIzVU26vERb8gXZi%404PmOCqTY6zxshGkPQ%3D">MoMo 2025</a> (Minneapolis, MN).
+    I presented a version of this project (and the one below) at <a href="https://transportation.northwestern.edu/news-events/itea2025/itea2025.html">ITEA 2025</a> (Evanston, IL), <a href="https://whova.com/web/b0kitYLTonIzVU26vERb8gXZi%404PmOCqTY6zxshGkPQ%3D">MoMo 2025</a> (Minneapolis, MN), and TRB 2026 (Washington, DC).
   </div>
 </div>
 
