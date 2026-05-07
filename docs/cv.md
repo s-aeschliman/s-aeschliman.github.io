@@ -4,7 +4,7 @@ title: Vitae
 last_modified_at: 2026-03-02
 ---
 
-*Download PDF version [here](files/my_cv.pdf) (updated July 2025).*
+*Download PDF version [here](files/my_cv.pdf) (updated May 2026).*
 
 ### PhD Candidate in the *Mobility and Behavior Lab* at Northwestern University
 
@@ -24,6 +24,7 @@ B.A., Physics, minor in Mathematics (2019)
 
 ### Publications and Presentations
 **Journal Articles**<br>
+* **Aeschliman, S.**, Pougala, J., & Stathopoulos, A. (2026). "Fully-Bayesian imputation of incomplete transit panel data using temporal Gaussian Processes: simulations and real-world evidence." Manuscript under review. Preprint available at: https://dx.doi.org/10.2139/ssrn.6504271. 
 * **Aeschliman, S.** & Stathopoulos, A. (2025). "Trade-off is transit public safety interventions: balancing enforcement and quality improvements." *Transportation Research Part A: Policy and Practice*.
 * **Aeschliman, S.**, Huang, E., Hofstra, A., & Stathopoulos, A. (2025). "Examining riders' subjective equity standards for transit service: How will they shape future transit planning and operations?" *Transport Policy*.
 * Said, M., **Aeschliman, S.**, & Stathopoulos, A. (2023). “Robots at your doorstep: acceptance of near-future
