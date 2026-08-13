@@ -32,7 +32,7 @@ When I am not doing research, I like to play soccer, take photos, ride my bike, 
 - [Kelela - *new avatar*](https://kelela.bandcamp.com/album/new-avatar-2)
 - [Sluice - *Companion*](https://sluice.bandcamp.com/album/companion)
 
-- [*A Brighter Summer's Day*](https://letterboxd.com/film/a-brighter-summer-day/), dir. Edward Yang
+- [*A Brighter Summer Day*](https://letterboxd.com/film/a-brighter-summer-day/), dir. Edward Yang
 - [*Blue Heron*](https://letterboxd.com/film/blue-heron/), dir. Sophy Romvari
 - [*The Secret Agent*](https://letterboxd.com/film/the-secret-agent-2025/), dir. Kleber Mendonca Filho
 - [*Magellan*](https://letterboxd.com/film/magellan-2025/), dir. Lav Diaz

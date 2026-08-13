@@ -365,7 +365,16 @@ body {
   margin-bottom: $spacing-unit;
 }
 
+@mixin title-highlight {
+  background-color: #000000;
+  color: #ffffff;
+  font-style: italic;
+  display: inline-block;
+  padding: 4px 8px;
+}
+
 .post-title {
+  @include title-highlight;
   @include relative-font-size(1.5);
   letter-spacing: -1px;
   line-height: 1;

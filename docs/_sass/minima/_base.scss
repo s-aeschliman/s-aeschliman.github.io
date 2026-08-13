@@ -109,20 +109,26 @@ h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: darken($brand-color, 20%);
+  color: $brand-color;
   text-decoration: none;
+  font-weight: normal;
 
   &:hover {
-    color: $brand-color;
-    //text-decoration: underline;
+    font-weight: bold;
   }
 
-  .social-media-list &:hover {
-    text-decoration: none;
-    color: $brand-color;
+  .social-media-list & {
+    color: darken($brand-color, 20%);
+    font-weight: normal;
 
-    .username {
+    &:hover {
       text-decoration: none;
+      color: $brand-color;
+      font-weight: normal;
+
+      .username {
+        text-decoration: none;
+      }
     }
   }
 }
