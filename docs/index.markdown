@@ -7,6 +7,9 @@ last_modified_at: 2026-03-02
 order: 1
 carousels:
   - images:
+    - image: /assets/images/balloons.jpg
+      alt: Balloons over Teotihuacan. Fujica STX-2 + Fujinon 50 mm f/1.9 + Portra 400, Nov. 2025
+      position: center 30%
     - image: /assets/images/grand_ronde.jpg
       alt: Grande Ronde River. Fujica STX-2 + Fujinon 50 mm f/1.9 + Portra 400, June 2023 
     - image: /assets/images/anthro.jpg
@@ -24,12 +27,14 @@ carousels:
 ---
 
 <div class="intro">You've somehow arrived at the website of Spencer Aeschliman (me). I study travel behavior and the impacts of transit policy. Here you'll find details about my ongoing projects, publications, photography, the odd blog post, and other random things that interest me, if that interests you.</div>
-
+<!--
 <div class="above_img_banner">
 
   <div class="pic"><a href="https://escapecollective.com/preview-tour-de-france-2023-stage-17/"><img src="assets/images/loze_profile.png" alt="" width="435" height="150"></a></div>
 
 </div>
+-->
+
 {%- include social_minimal.html -%}
 {% include carousel.html height="50" unit="%" duration="1000" number="1" %}
 

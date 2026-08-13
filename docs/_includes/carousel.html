@@ -27,7 +27,7 @@
         <div class="carousel__track">
           <ul>
             {% for item in page.carousels[number].images %}
-              <li class="carousel__slide" style="background-image: url('{{ item.image }}');">
+              <li class="carousel__slide" style="background-image: url('{{ item.image }}');{% if item.position %}background-position: {{ item.position }};{% endif %}">
                 <div class="top-left">
                   <div class="image-text">{{ item.alt }}</div>
                 </div>
@@ -109,13 +109,20 @@
 .carousel__control:hover {
   opacity: 1;
 }
+{% comment %}
+  Each indicator occupies 10px width + 2.5px margin on each side = 15px.
+  The dot row is centered, so its outer edge sits (dots * 15px) / 2 from center.
+  Park the arrows just outside that edge so they keep a constant gap no matter
+  how many photos the carousel holds.
+{% endcomment %}
+{% assign dotcount = page.carousels[number].images | size %}
 .carousel__control--backward {
-  left: 36%;
+  right: calc(50% + 7.5px * {{ dotcount }} + 26px);
   -webkit-transform: rotate(-135deg);
           transform: rotate(-135deg);
 }
 .carousel__control--forward {
-  right: 36%;
+  left: calc(50% + 7.5px * {{ dotcount }} + 26px);
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
 }

@@ -20,20 +20,20 @@ When I am not doing research, I like to play soccer, take photos, ride my bike, 
 
 #### *Books, Music, and Movies I've Recently Enjoyed*
 
-- [Thomas Pynchon, *Vineland*](https://pilsencommunitybooks.com/item/BuTAPAkYq0GxMQfmCCofdA)
-- [Benjamin Labatut, *When We Cease to Understand the World*](https://pilsencommunitybooks.com/item/1SqnOF0xZ8uZpDenXv-IIw)
-- [Roque Larraquay, *Comemadre*](https://pilsencommunitybooks.com/item/dKS8YeszLFsyTw3PlhHynQ) (tr. Heather Cleary)
-- [Machado de Assis, *The Posthumous Memoirs of Brás Cubas*](https://pilsencommunitybooks.com/item/rBSsMLeAZla6Y3iIwnZbaw)
-- [Lászlo Krasznahorkai, *Satantango*](https://pilsencommunitybooks.com/item/hvTabYmi135thLyL2u7bjg) (tr. George Szirtes)
+- [Thomas Pynchon, *Mason & Dixon*](https://pilsencommunitybooks.com/item/kFvBjdPm05GNT1534IqE5g)
+- [Helen DeWitt, *The Last Samurai*](https://pilsencommunitybooks.com/item/hvTabYmi136pjSBDRz8N7w)
+- [Solvej Balle, *On The Calculation of Volume*](https://pilsencommunitybooks.com/item/hvTabYmi134bS1DyXBK8Pg) (tr. Barbara J Haveland)
+- [Don DeLillo, *Mao II*](https://pilsencommunitybooks.com/item/lyBOwW8q0va-Nk8mwd9cbg)
+- [Roberto Bolaño, *By Night In Chile*](https://pilsencommunitybooks.com/item/MWp_c1qAP1yhJ1YRJd3wFg) (tr. Chris Andrews)
 
 - [caroline - *caroline 2*](https://caroline.bandcamp.com/album/caroline-2)
 - [Chuquimamani-Condori - *DJ E*](https://chuquimamani-condori.bandcamp.com/album/dj-e)
-- [Ryan Davis & the Roadhouse Band - *Dancing on the Edge*](https://sophomorelounge.bandcamp.com/album/ryan-davis-the-roadhouse-band-dancing-on-the-edge)
-- [Oklou - *choke enough*](https://oklou.bandcamp.com/album/choke-enough)
-- [Jim O'Rourke - *Bad Timing*](https://jimorourke.bandcamp.com/album/bad-timing)
+- [Hana Stretton - *tiarn*](https://hanastretton.bandcamp.com/album/tiarn-2)
+- [Kelela - *new avatar*](https://kelela.bandcamp.com/album/new-avatar-2)
+- [Sluice - *Companion*](https://sluice.bandcamp.com/album/companion)
 
-- [*A Brighter Summer's Day*](https://letterboxd.com/film/a-brighter-summer-day/), Edward Yang
-- [*Sorcerer*](https://letterboxd.com/film/sorcerer/), William Friedkin
-- [*Evil Does not Exist*](https://letterboxd.com/film/evil-does-not-exist/), Ryusuke Hamaguchi
-- [*Miller's Crossing*](https://letterboxd.com/film/millers-crossing/), Joel & Ethan Coen
-- [*The Tree of Life*](https://letterboxd.com/film/the-tree-of-life-2011/), Terrence Malick
+- [*A Brighter Summer's Day*](https://letterboxd.com/film/a-brighter-summer-day/), dir. Edward Yang
+- [*Blue Heron*](https://letterboxd.com/film/blue-heron/), dir. Sophy Romvari
+- [*The Secret Agent*](https://letterboxd.com/film/the-secret-agent-2025/), dir. Kleber Mendonca Filho
+- [*Magellan*](https://letterboxd.com/film/magellan-2025/), dir. Lav Diaz
+- [*Caught by the Tides*](https://letterboxd.com/film/caught-by-the-tides/), dir. Jia Zhangke

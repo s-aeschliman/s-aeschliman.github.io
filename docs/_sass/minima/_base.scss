@@ -26,6 +26,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  text-align: justify;
 }
 
 
@@ -231,6 +232,11 @@ pre {
     padding-top: 2px;
     padding-bottom: 0px;
   }
+}
+
+.social-minimal {
+  display: block;
+  margin-top: $spacing-unit / 2;
 }
 
 
