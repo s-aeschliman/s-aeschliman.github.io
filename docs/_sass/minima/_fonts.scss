@@ -1,0 +1,20 @@
+// Self-hosted iA Writer Duo (variable), so the font renders for every visitor
+// rather than only on machines with iA Writer installed.
+// SIL Open Font License 1.1: see assets/fonts/iAWriterDuo-OFL.txt
+// Paths are relative to the compiled stylesheet at /assets/main.css.
+
+@font-face {
+  font-family: "iA Writer Duo V";
+  src: url("fonts/iAWriterDuoV.woff2") format("woff2");
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "iA Writer Duo V";
+  src: url("fonts/iAWriterDuoV-Italic.woff2") format("woff2");
+  font-weight: 400 700;
+  font-style: italic;
+  font-display: swap;
+}
