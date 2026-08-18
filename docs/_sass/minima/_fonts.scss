@@ -18,3 +18,38 @@
   font-style: italic;
   font-display: swap;
 }
+
+// ---------------------------------------------------------------------------
+// Pokoljaro, set up the same way but INACTIVE.
+//
+// Un-comment the block below to put every page title in Pokoljaro: the
+// "Spencer Aeschliman" header that appears on every page (.site-title, which
+// is the only title visible on the index, since index.markdown has an empty
+// `title:`) and the h1 on About / Vitae / Photos / Projects (.post-title).
+// Body text is untouched either way.
+//
+// Licensing: Pokoljaro is (c) 2008 Bumbayo Font Fabrik, distributed under the
+// 1001Fonts Free For Commercial Use license, which explicitly allows both the
+// webfont conversion (sec. 4) and embedding it in a site (sec. 6):
+// https://www.1001fonts.com/licenses/ffc.html
+// The "All rights reserved" string inside the font is Fontographer boilerplate
+// asserting authorship, not a restriction. What the license does forbid is
+// redistributing the typeface itself, so serve only the .woff2 here - don't
+// also publish the installable .otf at a public URL.
+//
+// @font-face {
+//   font-family: "Pokoljaro";
+//   src: url("fonts/Pokoljaro.woff2") format("woff2");
+//   font-weight: normal;
+//   font-style: normal;
+//   font-display: swap;
+// }
+//
+// .site-title,
+// .post-title {
+//   font-family: "Pokoljaro", $base-font-family;
+//   // Pokoljaro is a display face and runs small and tight next to iA Writer;
+//   // these two lines undo the body font's fitting. Tune to taste.
+//   letter-spacing: 0;
+//   font-weight: normal;
+// }
